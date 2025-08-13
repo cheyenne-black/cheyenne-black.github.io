@@ -27,7 +27,6 @@ Cheyenne A. Black
 
 <!-- Centered contact info -->
 <div style="text-align: center; margin-top: 20px;">
-  <p><strong>I hope you have a great day!</strong></p>
   <p>📧 <a href="mailto:cheyenne.alise.black@ou.edu">cheyenne.alise.black@ou.edu</a></p>
 </div>
 

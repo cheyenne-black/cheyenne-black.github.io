@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# macOS
+.DS_Store
+
+# Quarto build + cache
+_site/
+docs/
+.quarto/
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/

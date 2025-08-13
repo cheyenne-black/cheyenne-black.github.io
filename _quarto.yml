@@ -7,6 +7,7 @@ project:
     - "files/**"
 
 website:
+  site-url: https://cheyenne-black.github.io
   description: "Research, publications, teaching, and notes"
   navbar:
     left:

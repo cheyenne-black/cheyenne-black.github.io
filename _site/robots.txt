@@ -1,1 +1,1 @@
-Sitemap: https://cheyenne-black.github.io/academic-website/sitemap.xml
+Sitemap: https://cheyenne-black.github.io/sitemap.xml
