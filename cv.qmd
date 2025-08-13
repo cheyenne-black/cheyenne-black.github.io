@@ -1,0 +1,99 @@
+---
+title: "CV"
+---
+
+**Download my CV:**
+
+<a class="btn btn-sm btn-download" href="files/cv.pdf" download>Download CV (PDF)</a>
+
+## Education
+
+-   Ph.D., Political Science — University of Oklahoma (in progress)
+    -   Concentration in Public Policy, Research Methods, American Government
+-   M.A., Political Science — University of Oklahoma (2022)
+    -   Concentration in Public Policy and Research Methods
+-   B.S., Political Science — Appalachian State University (2019)
+    -   Concentration in Legal Studies
+
+## Professional Experience
+
+-   Summer Associate, The RAND Corporation
+-   Graduate Research Assistant, The Institute for Public Policy Research and Analysis
+-   VSFS Graduate Student Assistant, U.S. Department of State - Office of Policy, Planning, and Resources
+-   VSFS Graduate Student Assistant, U.S. Department of State - Greening Diplomacy Initiative
+-   Census Field Supervisor, U.S. Census Bureau
+-   Address Analyst and Canvasser, U.S. Census Bureau
+
+## Supplemental Education
+
+-   Inter-university Consortium for Political and Social Research (ICPSR)
+
+    -   Maximum Likelihood Estimation
+
+    -   Mathematics for Social Scientists
+
+    -   Regression Analysis II
+
+-   The Institute for Qualitative and Multi-Method Research (IQMR)
+
+    -   Computational Text Analysis
+
+    -   Network Analysis
+
+    -   Bayesian Statistics
+
+    -   Comparative Historical Analysis
+
+-   The RAND Corporation
+
+    -   Forecasting Initiative Training
+
+## Research Interests
+
+Space policy, science and technology policy, environmental policy, research methods, Natural Language Processing (NLP), machine learning, policy subsystems, public-private partnerships (P3s), policy process theories, policy analysis
+
+## Past and Present Affiliations
+
+-   Association for Public Policy and Management
+
+-   Alpha Gamma Delta
+
+-   American Political Science Association
+
+-   European Consortium for Political Research
+
+-   German Political Science Association
+
+-   Phi Alpha Delta
+
+-   Midwestern Political Science Association
+
+-   Southern Political Science Association
+
+-   Women Also Know Stuff
+
+## Conference and Symposium Attendance
+
+-   2025
+
+    -   American Political Science Association - Vancouver, Canada (upcoming)
+
+    -   Association for Public Policy Analysis and Management - Seattle, Washington (upcoming)
+
+    -   International Conference on Public Policy - Chiang Mai, Thailand
+
+-   2024
+
+    -   Oklahoma Aerospace and Defense Innovation Institute Defense Symposium - Oklahoma City, Oklahoma
+
+    -   German Political Science Association Academic Convention - Göttingen, Germany
+
+    -   Conference on Policy Process Research - Syracuse, New York
+
+    -   Midwestern Political Science Association Annual Conference - Virtual
+
+    -   Southern Political Science Association Annual Conference - New Orleans, Louisiana
+
+-   2022
+
+    -   Oklahoma Aerospace and Defense Innovation Institute Defense Symposium - Norman, Oklahoma

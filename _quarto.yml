@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "img/**"
+    - "code/**"
+    - "files/**"
+
+website:
+  description: "Research, publications, teaching, and notes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      # - href: about.qmd
+      #   text: About
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: working_papers.qmd
+        text: Working Papers
+      - href: code.qmd
+        text: Code
+      - href: for_fun.qmd
+        text: For Fun
+    search: false
+
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true

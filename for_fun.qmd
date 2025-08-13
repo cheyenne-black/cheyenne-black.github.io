@@ -1,0 +1,164 @@
+---
+title: "For Fun"
+toc: false
+---
+
+# 🎨 Art
+
+::: gallery
+
+<figure>
+
+<img src="img/IMG_0044.jpg" alt="Painting 1"/>
+
+<figcaption>Oil and gold leaf on canvas (2025). </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/IMG_6382.JPG" alt="Painting 2"/>
+
+<figcaption>Oil and gold leaf on linen (2014). </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/23383327-D599-40DD-A693-B15F793F63EF.JPG" alt="Painting 3"/>
+
+<figcaption>Acrylic on canvas (2024).</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/IMG_6383.JPG" alt="Painting 4"/>
+
+<figcaption>Acrylic on canvas (2019).</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/IMG_6384.jpg" alt="Painting 5"/>
+
+<figcaption>Oil on canvas (2017).</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/IMG_8171.jpg" alt="Painting 6"/>
+
+<figcaption>Oil and modeling paste on wood (2023).</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/IMG_4134.JPG" alt="Painting 7"/>
+
+<figcaption>Micron pen and graphite on parchment (2019).</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/IMG_9784.jpg" alt="Painting 8"/>
+
+<figcaption>Gouache and micron pen on parchment (2024).</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/IMG_9852.jpg" alt="Painting 8"/>
+
+<figcaption>Prismacolor pencil on parchment (2025).</figcaption>
+
+</figure>
+
+<!-- Add more paintings as needed -->
+:::
+
+------------------------------------------------------------------------
+
+# 📸 iNaturalist Photos
+
+::: gallery
+<figure>
+
+<img src="img/DSC_0335.JPG" alt="iNaturalist 1"/>
+
+<figcaption>Horned Passalus Beetle Oklahoma</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/DSC_0569.JPG" alt="iNaturalist 2"/>
+
+<figcaption>Western Side-Blotched Lizard in California</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/DSC_0583.jpg" alt="iNaturalist 3"/>
+
+<figcaption>Red-spotted Admiral in Virgina</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/DSC_0648.JPG" alt="iNaturalist 4"/>
+
+<figcaption>Blainville's Horned Lizard in California</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/DSC_0681.jpg" alt="iNaturalist 5"/>
+
+<figcaption>Coelocnemis magna in California</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/DSC_0711.JPG" alt="iNaturalist 6"/>
+
+<figcaption>Ten-lined June Beetle in California</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/DSC_0713.jpg" alt="iNaturalist 7"/>
+
+<figcaption>Carolina Mantis in Oklahoma</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/DSC_0771.jpg" alt="iNaturalist 8"/>
+
+<figcaption>Acorn Woodpecker in California</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="img/IMG_3552.jpg" alt="iNaturalist 9"/>
+
+<figcaption>Barred Owl in Oklahoma</figcaption>
+
+</figure>
+
+
+<!-- Add more iNaturalist photos as needed -->
+:::

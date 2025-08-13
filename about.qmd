@@ -1,0 +1,27 @@
+---
+title: "About"
+---
+
+<!-- Headshot -->
+
+![](img/headshot.jpg){width="200px" style="border-radius: 12px; display:block; margin: 0 auto;"}
+
+<!-- Name -->
+
+::: {style="text-align: center; font-weight: bold; font-size: 1.2em; margin-top: 8px;"}
+Cheyenne A. Black
+:::
+
+<!-- Social Links (Horizontal) -->
+
+::: {style="margin-top: 10px; text-align: center;"}
+<a href="https://twitter.com/Cheyenne_A_B" target="_blank">Twitter/X</a>  \|  <a href="https://www.linkedin.com/in/cheyenne-black0000/" target="_blank">LinkedIn</a>  \|  <a href="https://orcid.org/0000-0002-6496-6619" target="_blank">ORCID</a>  \|  <a href="https://www.researchgate.net/profile/Cheyenne-Black-2" target="_blank">ResearchGate</a>
+:::
+
+------------------------------------------------------------------------
+
+Hi, I’m **Cheyenne A. Black** — a political scientist, researcher fascinated by policy studies, especially in the vast and evolving domain of space. I’m currently a Ph.D. Candidate at the University of Oklahoma, where my work blends natural language processing, network analysis, and computational text methods.
+
+I’ve been fortunate to work with organizations ranging from the RAND Corporation, the U.S. Department of State, and the Institute for Public Policy Research and Analysis. In these roles I had the opportunity of contributing to projects on space policy, environmental governance, risk communication, and national security. My research has appeared in peer-reviewed journals and I’ve presented my work at national and international conferences.
+
+Outside the academic world, I’m an active participant in citizen science, logging insect and other wildlife observations to contribute to biodiversity databases. I also love oil painting, hiking, and exploring museums.

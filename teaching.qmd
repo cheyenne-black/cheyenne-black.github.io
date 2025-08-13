@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+---
+
+## Current & Recent Courses
+
+| Course | Term | Role | Syllabus |
+|------------------|------------------|------------------|------------------|
+| P SC 2013 — Introduction to Political Data | Fall 2024 - Fall 2025 | Instructor | [PDF](files/PSC 2013 Syllabus - General.pdf) |
+| P SC 3223 — Making Public Policy | Fall 2024 | Instructor | [PDF](files/PSC 3223 Syllabus - General.pdf) |
+
+### Teaching Assistant Appointments
+
+-   The Future of Space *(EMAD 5602 in the OU Price College of Business MBA program)*
+
+-   Space and Small Business *(EMAD 5622 in the OU Price College of Business MBA program)*
+
+-   Introduction to American Politics and Democracy *(P SC 1113 in the OU Department of Political Science)*
+
+### Office Hours
+
+T;TH \@ 1-3 By appointment
+
+### Teaching Materials
+
+Problem sets and slides available upon request.
+
+<p align="center">
+  <img src="img/DataCamp_Classrooms_Teacher_Ambassador_badges copy.png" alt="Data Camp Ambassador badge" width="200">
+</p>

@@ -1,0 +1,67 @@
+.btn-download {
+  background-color: #007BFF !important; /* Bootstrap blue */
+  color: white !important;
+}
+.btn-download:hover {
+  background-color: #0056b3 !important; /* darker on hover */
+  color: white !important;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.gallery figure {
+  margin: 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.gallery figcaption {
+  font-size: 0.9rem;
+  padding: 0.5rem;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+/* Publication preview cards */
+.pubs {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+.pub-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,.04);
+  padding: 1rem 1.2rem;
+}
+.pub-hero {
+  display: block;
+  margin: 0 auto 0.75rem auto; /* centers the image */
+  max-width: 720px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.pub-title { font-weight: 700; font-size: 1.05rem; }
+.pub-meta { font-style: italic; color: #555; margin: 0.25rem 0 0.5rem 0; }
+.pub-links { margin-top: 0.5rem; text-align: center; }
+.pub-links .btn { margin: 0.2rem 0.25rem; }
+
+/* Optional: larger screens show two columns */
+@media (min-width: 900px) {
+  .pubs { grid-template-columns: 1fr 1fr; }
+}
